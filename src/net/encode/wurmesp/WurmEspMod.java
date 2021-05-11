@@ -1,15 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  com.wurmonline.client.game.CaveDataBuffer
- *  com.wurmonline.client.game.NearTerrainDataBuffer
- *  com.wurmonline.client.renderer.PickRenderer
- *  com.wurmonline.client.renderer.gui.HeadsUpDisplay
- *  org.gotti.wurmunlimited.modloader.interfaces.Configurable
- *  org.gotti.wurmunlimited.modloader.interfaces.Initable
- *  org.gotti.wurmunlimited.modloader.interfaces.WurmClientMod
- */
 package net.encode.wurmesp;
 
 import java.util.ArrayList;

@@ -1,6 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- */
 package com.wurmonline.client.renderer.gui;
 
 public interface CheckBoxListener {

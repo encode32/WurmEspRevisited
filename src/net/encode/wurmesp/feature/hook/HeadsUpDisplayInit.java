@@ -1,14 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  com.wurmonline.client.renderer.gui.HeadsUpDisplay
- *  com.wurmonline.client.renderer.gui.MainMenu
- *  com.wurmonline.client.renderer.gui.WindowSerializer
- *  com.wurmonline.client.renderer.gui.WurmComponent
- *  com.wurmonline.client.settings.SavePosManager
- *  org.gotti.wurmunlimited.modloader.ReflectionUtil
- */
 package net.encode.wurmesp.feature.hook;
 
 import java.lang.reflect.Field;

@@ -1,18 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  com.wurmonline.client.renderer.Color
- *  com.wurmonline.client.renderer.PickRenderer
- *  com.wurmonline.client.renderer.PickRenderer$CustomPickFillDepthRender
- *  com.wurmonline.client.renderer.PickRenderer$CustomPickFillRender
- *  com.wurmonline.client.renderer.PickRenderer$CustomPickOutlineRender
- *  com.wurmonline.client.renderer.PickableUnit
- *  com.wurmonline.client.renderer.backend.Primitive$BlendMode
- *  com.wurmonline.client.renderer.backend.Primitive$TestFunc
- *  com.wurmonline.client.renderer.backend.Queue
- *  com.wurmonline.client.renderer.backend.RenderState
- */
 package net.encode.wurmesp;
 
 import com.wurmonline.client.game.World;

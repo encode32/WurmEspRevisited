@@ -1,15 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  com.wurmonline.client.renderer.backend.IndexBuffer
- *  com.wurmonline.client.renderer.backend.Primitive
- *  com.wurmonline.client.renderer.backend.Primitive$Type
- *  com.wurmonline.client.renderer.backend.Queue
- *  com.wurmonline.client.renderer.backend.RenderState
- *  com.wurmonline.client.renderer.backend.VertexBuffer
- *  com.wurmonline.client.renderer.backend.VertexBuffer$Usage
- */
 package net.encode.wurmesp.util;
 
 import com.wurmonline.client.renderer.PickRenderer;

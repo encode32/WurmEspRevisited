@@ -1,9 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  com.wurmonline.client.renderer.PickableUnit
- */
 package net.encode.wurmesp.feature.hook;
 
 import java.util.logging.Level;

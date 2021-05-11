@@ -1,13 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  com.wurmonline.client.renderer.gui.FlexComponent
- *  com.wurmonline.client.renderer.gui.WWindow
- *  com.wurmonline.client.renderer.gui.WurmArrayPanel
- *  com.wurmonline.client.renderer.gui.WurmBorderPanel
- *  com.wurmonline.client.renderer.gui.WurmComponent
- */
 package com.wurmonline.client.renderer.gui;
 
 import net.encode.wurmesp.WurmEspMod;

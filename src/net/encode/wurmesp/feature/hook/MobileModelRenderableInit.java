@@ -1,10 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  com.wurmonline.client.renderer.PickableUnit
- *  com.wurmonline.client.renderer.cell.CreatureCellRenderable
- */
 package net.encode.wurmesp.feature.hook;
 
 import com.wurmonline.client.renderer.PickableUnit;

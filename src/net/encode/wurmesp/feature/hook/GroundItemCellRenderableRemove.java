@@ -1,10 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  com.wurmonline.client.renderer.GroundItemData
- *  org.gotti.wurmunlimited.modloader.ReflectionUtil
- */
 package net.encode.wurmesp.feature.hook;
 
 import java.lang.reflect.Field;

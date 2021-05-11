@@ -1,10 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  com.wurmonline.client.game.PlayerPosition
- *  com.wurmonline.client.game.World
- */
 package net.encode.wurmesp.feature;
 
 import com.wurmonline.client.game.PlayerPosition;

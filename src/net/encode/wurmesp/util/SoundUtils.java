@@ -1,12 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  com.wurmonline.client.game.PlayerPosition
- *  com.wurmonline.client.renderer.cell.CellRenderable
- *  com.wurmonline.client.sound.FixedSoundSource
- *  com.wurmonline.client.sound.SoundSource
- */
 package net.encode.wurmesp.util;
 
 import com.wurmonline.client.game.PlayerPosition;

@@ -1,12 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  com.wurmonline.client.game.World
- *  com.wurmonline.client.renderer.PickRenderer
- *  com.wurmonline.client.renderer.backend.Queue
- *  org.gotti.wurmunlimited.modloader.ReflectionUtil
- */
 package net.encode.wurmesp.feature.hook;
 
 import java.lang.reflect.Field;

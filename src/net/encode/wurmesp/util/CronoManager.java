@@ -1,6 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- */
 package net.encode.wurmesp.util;
 
 import java.util.HashMap;

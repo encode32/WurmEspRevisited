@@ -1,10 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  org.gotti.wurmunlimited.modloader.classhooks.HookManager
- *  org.gotti.wurmunlimited.modloader.classhooks.InvocationHandlerFactory
- */
 package net.encode.wurmesp.feature.hook;
 
 import org.gotti.wurmunlimited.modloader.classhooks.HookManager;

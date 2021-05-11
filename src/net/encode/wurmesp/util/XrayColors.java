@@ -1,9 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  com.wurmonline.mesh.Tiles$Tile
- */
 package net.encode.wurmesp.util;
 
 import com.wurmonline.mesh.Tiles;

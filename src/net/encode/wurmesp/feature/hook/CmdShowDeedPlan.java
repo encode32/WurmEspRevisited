@@ -1,9 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  com.wurmonline.client.comm.SimpleServerConnectionClass
- */
 package net.encode.wurmesp.feature.hook;
 
 import com.wurmonline.client.comm.SimpleServerConnectionClass;

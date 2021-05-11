@@ -1,20 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  com.wurmonline.client.renderer.Matrix
- *  com.wurmonline.client.renderer.PickData
- *  com.wurmonline.client.renderer.backend.Primitive
- *  com.wurmonline.client.renderer.backend.Primitive$TexEnv
- *  com.wurmonline.client.renderer.backend.Primitive$Type
- *  com.wurmonline.client.renderer.backend.Queue
- *  com.wurmonline.client.renderer.backend.VertexBuffer
- *  com.wurmonline.client.renderer.backend.VertexBuffer$Usage
- *  com.wurmonline.client.renderer.gui.ConfirmListener
- *  com.wurmonline.client.renderer.gui.ConfirmWindow
- *  com.wurmonline.client.renderer.gui.FlexComponent
- *  com.wurmonline.client.renderer.gui.HeadsUpDisplay
- */
 package com.wurmonline.client.renderer.gui;
 
 import com.wurmonline.client.renderer.Matrix;

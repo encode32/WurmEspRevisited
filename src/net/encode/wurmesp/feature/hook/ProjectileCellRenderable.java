@@ -1,15 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  javassist.CannotCompileException
- *  javassist.ClassPool
- *  javassist.CtClass
- *  javassist.CtMethod
- *  javassist.CtNewMethod
- *  javassist.NotFoundException
- *  org.gotti.wurmunlimited.modloader.classhooks.HookManager
- */
 package net.encode.wurmesp.feature.hook;
 
 import java.util.logging.Level;

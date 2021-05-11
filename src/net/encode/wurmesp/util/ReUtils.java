@@ -1,9 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  org.gotti.wurmunlimited.modloader.ReflectionUtil
- */
 package net.encode.wurmesp.util;
 
 import java.lang.reflect.Field;

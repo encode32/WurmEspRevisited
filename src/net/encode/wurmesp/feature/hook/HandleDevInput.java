@@ -1,14 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  com.wurmonline.client.game.PlayerPosition
- *  javassist.CannotCompileException
- *  javassist.ClassPool
- *  javassist.CtClass
- *  javassist.NotFoundException
- *  org.gotti.wurmunlimited.modloader.classhooks.HookManager
- */
 package net.encode.wurmesp.feature.hook;
 
 import com.wurmonline.client.game.PlayerPosition;
